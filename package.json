@@ -15,11 +15,13 @@
   "homepage": "https://github.com/TheOdinProject/javascript-exercises#readme",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+    "@types/jest": "^30.0.0",
     "case-anything": "^2.1.13",
-    "eslint": "^10.0.2",
+    "eslint": "^10.1.0",
     "globals": "^17.3.0",
     "jest": "^30.3.0",
-    "plop": "^4.0.1"
+    "plop": "^4.0.1",
+    "prettier": "^3.8.1"
   },
   "engines": {
     "npm": ">=8.5.5",
